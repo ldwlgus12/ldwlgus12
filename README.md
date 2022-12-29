@@ -18,7 +18,7 @@
 🙌 `동료들에게`:  앞으로 잘 부탁드리고, 우리 다같이 열심히 끝까지 달려봅시다 파이팅!😊👊
 <br/>
 
-`🏃 Git Stats` 
+🏃 `Git Stats` 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldwlgus12&show_icons=true&theme=radical)
 <br/>
 

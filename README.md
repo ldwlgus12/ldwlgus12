@@ -3,7 +3,7 @@
 🌱 `이름`: 전지현 Jihyeon Jeon
 <br/>
 
-😎 `MBTI`: INFJ(F와 T가 반반)
+😎 `MBTI`: INFJ (F와 T가 반반)
 <br/>
 
 📖 `전공`: 제어공학과, `복수전공`: 컴퓨터공학과

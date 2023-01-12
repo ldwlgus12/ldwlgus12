@@ -28,6 +28,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldwlgus12)](https://solved.ac/ldwlgus12/)
 <br/>
 
+
+`🗣 language`
+
+[![ldwlgus12's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldwlgus12&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ldwlgus12)
+<br/>
+
+
 `🐣 About Me`
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/monj.c)](https://www.instagram.com/monj.c)

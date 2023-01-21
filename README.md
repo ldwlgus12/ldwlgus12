@@ -35,7 +35,7 @@
 <br/>
 
 
-`🐣 About Me`
+🐣 `About Me`
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/monj.c)](https://www.instagram.com/monj.c)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:https://blog.naver.com/ldwlgus12)](https://blog.naver.com/ldwlgus12)

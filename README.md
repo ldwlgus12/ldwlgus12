@@ -3,9 +3,6 @@
 🌱 `이름`: 전지현 Jihyeon Jeon
 <br/>
 
-😎 `MBTI`: INFJ (F와 T가 반반)
-<br/>
-
 📖 `전공`: 제어공학과, `부전공`: 컴퓨터공학과
 <br/>
 
@@ -38,7 +35,7 @@
 🐣 `About Me`
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/monj.c)](https://www.instagram.com/monj.c)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:https://blog.naver.com/ldwlgus12)](https://blog.naver.com/ldwlgus12)
+<!-- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:https://blog.naver.com/ldwlgus12)](https://blog.naver.com/ldwlgus12) -->
 
 
 

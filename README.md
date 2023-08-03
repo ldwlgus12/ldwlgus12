@@ -1,4 +1,4 @@
-# # Welcome!👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jyeon_Github&fontSize=90" />
 
 🌱 `이름`: 전지현 Jihyeon Jeon
 <br/>

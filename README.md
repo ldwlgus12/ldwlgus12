@@ -7,8 +7,8 @@
 <br/>
 
 🍀 `보유 자격증`
-- 정보처리기사
-- SQLD
+- 정보처리기사 (Engineer Information Processing)
+- SQLD (SQL Developer)
 <br/>
 
 💻 `SW 경험`
